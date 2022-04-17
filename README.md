@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @irshad-tkle — .NET Developer for Turnkey-Lender
 - 🗺️ Kuala Lumpur, Malaysia
 - 👀 I’m interested in ...Software Engineering, Electronics, Stocks, Reddit and stuff
-- 🌱 I’m currently learning ...C# multi-threading, NHibernate and Reflection
+- 🌱 I’m currently learning ...ANTLR
 - 🤖 u/RedwireBull
 - 📫 How to reach me ...irshad@turnkey-lender.com
 
